@@ -2,7 +2,7 @@
 
 This is the source code for the following paper:
 
-C. Zhang, L. Chen, W. Ding, K. Zhao, Z. Shi, Y. Wang, and C. L. P. Chen, “Scale-Driven Tensor Representation-Based Multi-View Clustering,” IEEE Transactions on Neural Networks and Learning Systems, 2024.
+C. Zhang, L. Chen, W. Ding, K. Zhao, Z. Shi, Y. Wang, and C. L. P. Chen, “Scale-Driven Tensor Representation-Based Multi-View Clustering,” IEEE Transactions on Neural Networks and Learning Systems (Under Review).
 
 <br/>
 
